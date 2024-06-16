@@ -298,20 +298,13 @@
     "href": "Thesis(boram).html#conclusion-1",
     "title": "Graph Based Fraud Detection:Leveraging Temporal Connection Intensity",
     "section": "Conclusion",
-    "text": "Conclusion"
+    "text": "Conclusion\n\nEach customer was analyzed as an individual graph structure using GCN models. By utilizing the connectivity of observed values in graph-based research methods, intuitive understanding of transactions was enhanced. For example, if transactions at 11:00 and 11:30 are fraudulent, a transaction at 11:15 is likely also fraudulent, regardless of the amount.\nNon-Euclidean models incorporating graph information (XGBoost, LightGBM, CatBoost, etc.) showed superior performance compared to traditional methods. This approach reduced dependency on transaction amounts and made it easier to detect fraud in small transactions.\n\n\n각 고객을 GCN 모델을 사용해 개별 그래프 구조로 분석했습니다. 그래프 기반 연구 방법에서 관측값의 연결성을 활용하여 거래에 대한 직관적인 이해를 높였습니다. 예를 들어, 11:00과 11:30의 거래가 사기인 경우, 거래 금액에 상관없이 11:15의 거래도 사기일 가능성이 높습니다.\n그래프 정보를 통합한 비유클리드 모델(XGBoost, LightGBM, CatBoost 등)은 기존 방법보다 우수한 성능을 보였습니다. 이 접근 방식은 거래 금액에 대한 의존도를 줄이고 작은 거래 금액에서 사기를 쉽게 탐지할 수 있게 했습니다."
   },
   {
-    "objectID": "Thesis(boram).html#conclusion-and-discussion",
-    "href": "Thesis(boram).html#conclusion-and-discussion",
+    "objectID": "Thesis(boram).html#conclusion-2",
+    "href": "Thesis(boram).html#conclusion-2",
     "title": "Graph Based Fraud Detection:Leveraging Temporal Connection Intensity",
-    "section": "Conclusion and Discussion",
-    "text": "Conclusion and Discussion\n\nEach customer was analyzed as an individual graph structure using GCN models. By utilizing the connectivity of observed values in graph-based research methods, intuitive understanding of transactions was enhanced. For example, if transactions at 11:00 and 11:30 are fraudulent, a transaction at 11:15 is likely also fraudulent, regardless of the amount.\nNon-Euclidean models incorporating graph information (XGBoost, LightGBM, CatBoost, etc.) showed superior performance compared to traditional methods. This approach reduced dependency on transaction amounts and made it easier to detect fraud in small transactions.\n\n\n각 고객을 GCN 모델을 사용해 개별 그래프 구조로 분석했습니다. 그래프 기반 연구 방법에서 관측값의 연결성을 활용하여 거래에 대한 직관적인 이해를 높였습니다. 예를 들어, 11:00과 11:30의 거래가 사기인 경우, 거래 금액에 상관없이 11:15의 거래도 사기일 가능성이 높습니다.\n그래프 정보를 통합한 비유클리드 모델(XGBoost, LightGBM, CatBoost 등)은 기존 방법보다 우수한 성능을 보였습니다. 이 접근 방식은 거래 금액에 대한 의존도를 줄이고 작은 거래 금액에서 사기를 쉽게 탐지할 수 있게 했습니다."
-  },
-  {
-    "objectID": "Thesis(boram).html#conclusion-and-discussion-1",
-    "href": "Thesis(boram).html#conclusion-and-discussion-1",
-    "title": "Graph Based Fraud Detection:Leveraging Temporal Connection Intensity",
-    "section": "Conclusion and Discussion",
-    "text": "Conclusion and Discussion\n\nThe proposed method can be applied not only to fraud transaction data but also to data with complex interactions of observed values, such as traffic data or Wikipedia citations.\n\n\n제안된 방법은 사기 거래 데이터뿐만 아니라 교통 데이터나 위키백과 인용과 같이 관측값의 복잡한 상호작용을 가지는 데이터에도 적용할 수 있습니다."
+    "section": "Conclusion",
+    "text": "Conclusion\n\nThe proposed method can be applied not only to fraud transaction data but also to data with complex interactions of observed values, such as traffic data or Wikipedia citations.\n\n\n제안된 방법은 사기 거래 데이터뿐만 아니라 교통 데이터나 위키백과 인용과 같이 관측값의 복잡한 상호작용을 가지는 데이터에도 적용할 수 있습니다."
   }
 ]
